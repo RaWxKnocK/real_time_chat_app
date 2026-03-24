@@ -63,6 +63,7 @@ http://localhost:8080/chat
 
 ## 📸 Screenshots
 
+<img width="1917" height="1081" alt="Screenshot 2026-03-24 215238" src="https://github.com/user-attachments/assets/956e4fff-24ae-47e9-9b9f-b809372218d7" />
 
 
 
